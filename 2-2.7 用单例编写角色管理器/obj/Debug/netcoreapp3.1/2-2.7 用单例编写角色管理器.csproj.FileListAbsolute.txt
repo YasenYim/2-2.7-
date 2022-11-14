@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.exe
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.deps.json
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.runtimeconfig.json
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.dll
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\bin\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.pdb
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.dll
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.pdb
+E:\Unity\NikoLua\Hello\2-2.7 用单例编写角色管理器\obj\Debug\netcoreapp3.1\2-2.7 用单例编写角色管理器.genruntimeconfig.cache
